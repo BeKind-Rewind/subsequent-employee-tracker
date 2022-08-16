@@ -47,6 +47,7 @@ For developers:
     MySQL2 package --> npm i mysql2
     Inquirer Package *** IMPORTANT *** --> In order to install inquirer, please use npm i inquirer@8.2.4
     console.table package --> npm i console.table
+    npm install -g figlet-cli
 
 
 
