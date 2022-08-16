@@ -52,8 +52,13 @@ For developers:
 
 
 ## Screenshots and Video
-![alt text](images/screenshot.png)
+![NPM START in console](images/screenshot1.png)
+![Examples of inquiries in tables in console](images/screenshot2.png)
+![Additional examples of tables in console](images/screenshot3.png)
+![Examples of removing queries and exit app in console](images/screenshot4.png)
 
+VIDEO:
+https://drive.google.com/file/d/1bVKxcLBMxBYIEXLyG6Os-Yb09uSlzse5/view
 
 ## Contributing
 For questions see below
