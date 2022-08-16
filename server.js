@@ -1,9 +1,8 @@
 const express = require('express');
-const PORT = process.env.PORT || 3001;
-const app = express();
 const db = require('./db/connections');
 const promptUser = require("./lib/index.js");
-
+const PORT = process.env.PORT || 3001;
+const app = express();
 
 // express middleware
 app.use(express.urlencoded({extended: false}));
